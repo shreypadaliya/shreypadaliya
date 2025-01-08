@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react and styling**
 
-- 📫 How to reach me **you can't (Joking)**
+- 📫 How to reach me : **you can't (Joking)**
 
 - ⚡ Fun fact **"Did you know? The first computer 'bug' was an actual moth found in a computer in 1947! Debugging since then has been slightly less literal. 🐛"**
 
