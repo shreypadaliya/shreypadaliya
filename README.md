@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shrey padaliya</h1>
-<h3 align="center">A passionate frontend developer/frontend designer from India</h3>
+<h3 align="center">A passionate frontend developer/frontend designer and quality assurance engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreypadaliya&label=Profile%20views&color=0e75b6&style=flat" alt="shreypadaliya" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **different ui frontend framework like threejs.**
 
-- 👨‍💻 All of my projects are available at [github repo](github repo)
+- 👨‍💻 All of my projects are available at https://github.com/shreypadaliya/ (Git Repo)
 
 - 💬 Ask me about **react and styling**
 
-- 📫 How to reach me : **you can't (Joking)**
+- 📫 How to reach me : ** through my Linkedin **
 
 - ⚡ Fun fact **"Did you know? The first computer 'bug' was an actual moth found in a computer in 1947! Debugging since then has been slightly less literal. 🐛"**
 
